@@ -1,0 +1,2 @@
+# Hacer que el script sea clasificados como Python
+*.ipynb linguist-language=Python
